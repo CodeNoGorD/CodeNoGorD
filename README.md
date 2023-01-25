@@ -49,7 +49,7 @@
 
 ### OS
 
-<a href="https://www.microsoft.fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="50" height="50"/> </a>
+<a style="padding-right:5px" href="https://www.microsoft.fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="50" height="50"/> </a>
 <a href="https://www.apple.com/fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 
