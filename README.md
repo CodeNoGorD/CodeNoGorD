@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codenogord&label=Profile%20views&color=0e75b6&style=flat" alt="codenogord" /> </p>
 
-- 📫 How to reach me **sp@codenogord.com**
+- 📫 How to reach me **sp@codenogord.com** <br/>
 http://www.codenogord.com/
 
 - ⚡ Fun fact **I'm curious, sociable and thirsty of knowledges.**
