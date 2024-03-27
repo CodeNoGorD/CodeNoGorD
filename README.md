@@ -32,5 +32,3 @@ http://www.codenogord.com/
 <a style="border: 2px #fff" href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/> </a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenogord&show_icons=true&locale=en" alt="codenogord" /></p>
